@@ -1,12 +1,10 @@
 <!-- Header with animated typing + neon glow -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=34&duration=1&pause=2000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=700&lines=MD.+Reazul+Hasan;Full-Stack+MERN+Developer;Building+Global+Nexus+%F0%9F%8C%8D" alt="Typing SVG" />
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Reazul87&label=Views&color=8B5CF6&style=flat-square" />
-    <img src="https://img.shields.io/github/followers/Reazul87?label=Follow&style=flat-square&color=7C3AED" />
-  </p>
-</div>
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on expanding my knowledge in **Typescript** and **TanstackQuery** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+
+---
 
 <br>
 
