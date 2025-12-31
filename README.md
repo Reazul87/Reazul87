@@ -1,64 +1,212 @@
-<!-- Header with animated typing + neon glow -->
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="Banner" width="800"/>
+</p>
 
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **Typescript** and **TanstackQuery** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+<h1 align="center">Hi 👋, I'm Md. Reazul Hasan</h1>
+<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+
+<p align="center">
+  <em>Passionate about building scalable web applications using modern JavaScript technologies. Currently focused on MERN stack (MongoDB, Express.js, React, Node.js) + Next.js. Always learning, building, and solving real-world problems through clean code.</em>
+</p>
+
+<p align="center">
+  📍 Sherpur, Bogura, Bangladesh <br>
+  📧 hasanreazul87@gmail.com <br>
+  📞 +880 1717-741419
+</p>
 
 ---
 
-<br>
+### 🌱 What I'm currently up to
+- 🔭 Exploring Next.js and advanced React patterns
+- 🌱 Deepening knowledge in Express.js, Node.js & MongoDB
+- 👨‍💻 Building full-stack projects (MERN + Next.js)
+- 📫 Open to collaboration on web development projects
 
-<!-- One-liner bio -->
-<div align="center">
-  <i>Turning ideas into production-grade MERN applications • Currently shipping <a href="https://github.com/Reazul87/GlobalNexus-Frontend"><b>Global Nexus</b></a> — the future of global trade</i>
-</div>
+---
 
-<br>
+### 🛠️ Skills & Technologies
 
-<!-- Tech Stack – clean icons, dracula style -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,vercel&theme=dark&perline=11" />
-</div>
-
-<br><br>
-
-<!-- Stats row – compact & beautiful -->
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Reazul87&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reazul87&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook,html,css" />
-</div>
-
-<br>
-
-<!-- Streak – neon fire -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reazul87&theme=dracula&hide_border=true&fire=8B5CF6&ring=AB8CFF&currStreakLabel=FFFFFF" />
-</div>
-
-<br>
-
-<!-- Trophies – subtle flex -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reazul87&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" />
-</div>
-
-<br>
-
-<!-- Pinned Projects – only the best ones (add more later) -->
-<div align="center">
-  <a href="https://github.com/Reazul87/GlobalNexus-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reazul87&repo=GlobalNexus-Frontend&theme=dracula&hide_border=true" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,nextjs,git,github,vscode" />
   </a>
-  <a href="https://github.com/Reazul87/GlobalNexus-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reazul87&repo=GlobalNexus-Backend&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reazul87&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reazul87&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reazul87&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with me (Professional only)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/reazul-hasan-87" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Add your real LinkedIn if ready, or keep as placeholder -->
+</p>
+
+---
+
+Thanks for visiting! Feel free to explore my repositories 🚀
+
+
+
+
+-------------------------------------------------------
+
+## Socials
+<p align="left">
+<a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
+<a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
+</p>
+
+
+
+
+## 🎯 Current Stats
+
+<br />
+<p align="center">
+<img 
+    width="60%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=thesachindey&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
+    alt="GitHub Streak Stats"
+/>
+</p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Reazul87" alt="GitHub Streak" /></a>
+-------------------------------------------
+
+
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
+  <div style="margin-top: 20px;">
+    <h3>📫 Contact:</h3>
+    <p>
+      <strong>Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
+      <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer.pdf</a><br>
+      <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app</a>
+    </p>
+  </div>
 </div>
 
-<br><br>
+---
 
-<!-- Footer quote + star button -->
+### 🌐 Connect With Me:
+
+  <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rijwanjannat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:rijwanjannat36@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+    <a href="https://x.com/JannatRijw51454" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
+  </a>
+
+## 💻 Technologies and Tools
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### Backend
+
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-CC6699?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Package Managers
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![BUN](https://img.shields.io/badge/Bun-CC6699?style=for-the-badge&logo=bun&logoColor=white)
+![PNPM](https://img.shields.io/badge/Pnpm-F7DF1E?style=for-the-badge&logo=pnpm&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+### IDE & OS
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🏆 GitHub Stats
+
 <div align="center">
-  <i>“Great software is written once, refactored forever.”</i>
-  <br><br>
-  <img src="https://img.shields.io/github/stars/Reazul87/Reazul87?style=social" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Top Languages" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&ring_color=3b82f6" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=blueberry&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&bg_color=00000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<div align="center">
+  <img src="[https://github-trophies.vercel.app/?username=md-rijwan-jannat&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" />
+  <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies/>
+</div>
+
+
