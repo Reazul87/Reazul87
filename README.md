@@ -84,7 +84,7 @@ Thanks for visiting! Feel free to explore my repositories 🚀
   <div style="margin-top: 20px;">
     <h3>📫 Contact:</h3>
     <p>
-      <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
+      <strong>Email</strong>:=> <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
       <!-- <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md. Reazul Hasan_Full Stack Developer.pdf</a><br> -->
       <!-- <strong>Portfolio</strong>: <a href="https://hasanreazul.vercel.app" target="_blank">hasanreazul87.vercel.app</a> -->
     </p>
@@ -150,25 +150,15 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 
 ## 🏆 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Top Languages" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&ring_color=3b82f6" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=blueberry&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Reazul87?cardType=level&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Reazul87&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Reazul87&layout=compact&theme=radical)
 
-<div align="center">
+
+
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reazul87&bg_color=0000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+</div> -->
 
 ---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Reazul87&theme=blueberry&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
