@@ -47,10 +47,10 @@
   <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:rijwanjannat36@gmail.com" target="_blank">
+  <a href="mailto:hasanreazul87@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-    <a href="https://x.com/JannatRijw51454" target="_blank">
+    <a href="https://x.com/hasanreazul87" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
   </a>
 
@@ -98,7 +98,7 @@
 
 <!--Github stats Table--> 
 <h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊</h2>
-
+<!-- https://gh-readme-profile.vercel.app/api?username=Reazul87&theme=deuteranopia-friendly-dark&hide=issues -->
 <table width="100%">
   <tr>
     <td width="50%">
@@ -118,8 +118,16 @@
       </p>
     </td>
   </tr>
-</table>
-<br />
+    <tr>
+    <td align="center" colspan="2">
+      <h3>ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
+      <img
+      src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Reazul87&type=languages&theme=dracula&chart=bars"
+      width="400""
+      />
+    </td>
+  </tr>
+</table> 
 
 <!--Contribution Graph-->
 <h2 align="center">📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈</h2>
