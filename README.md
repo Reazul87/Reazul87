@@ -1,3 +1,22 @@
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+
+
+
+
+
+
+
+
+sfffffffffff
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="Banner" width="800"/>
 </p>
@@ -19,20 +38,17 @@
 
 ### 🌱 What I'm currently up to
 - 🔭 Exploring Next.js and advanced React patterns
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🌱 Deepening knowledge in Express.js, Node.js & MongoDB
 - 👨‍💻 Building full-stack projects (MERN + Next.js)
 - 📫 Open to collaboration on web development projects
 
----
-
-
-
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <!-- <div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;"> -->
   <!-- <div style="margin-top: 20px;"> -->
     <!-- <h3>📫 Contact:</h3> -->
     <!-- <p> -->
-      <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
+      <!-- <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br> -->
       <!-- <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md. Reazul Hasan_Full Stack Developer.pdf</a><br> -->
       <!-- <strong>Portfolio</strong>: <a href="https://hasanreazul.vercel.app" target="_blank">hasanreazul87.vercel.app</a> -->
     <!-- </p> -->
@@ -98,13 +114,51 @@
 
 ## 🏆 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Reazul87?cardType=level&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Reazul87&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Reazul87&layout=compact&theme=radical)
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reazul87&bg_color=0000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div> -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Reazul87&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Reazul87&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reazul87&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Yesterday%20is%20but%20today's%20memory%2C%20tomorrow%20is%20today's%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
 
 ---
 
@@ -113,6 +167,12 @@
 <div align="center"> 
  <img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=Reazul87" alt="GitHub Trophies" />
 </div>
+
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Reazul87&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 ---
 
