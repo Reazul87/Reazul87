@@ -77,14 +77,12 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 
 
 
-
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
   <div style="margin-top: 20px;">
     <h3>📫 Contact:</h3>
     <p>
-      <strong>Email</strong>:=> <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
+      <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
       <!-- <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md. Reazul Hasan_Full Stack Developer.pdf</a><br> -->
       <!-- <strong>Portfolio</strong>: <a href="https://hasanreazul.vercel.app" target="_blank">hasanreazul87.vercel.app</a> -->
     </p>
@@ -154,18 +152,16 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Reazul87&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Reazul87&layout=compact&theme=radical)
 
-
-
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reazul87&bg_color=0000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div> -->
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Reazul87&theme=blueberry&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-<!-- <h2>## 🏆 GitHub Trophies:</h2> -->
 
-<!-- <div align="center"> -->
-  <!-- <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" /> -->
-<!-- </div> -->
+## 🏆 GitHub Trophies: 
+
+<div align="center"> 
+ <img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=Reazul87" alt="GitHub Trophies" />
+</div>
 
 
