@@ -171,11 +171,11 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 </div>
 
 ---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Reazul87&theme=blueberry&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+<!-- <h2>## 🏆 GitHub Trophies:</h2> -->
 
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" />
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" /> -->
+<!-- </div> -->
 
 
