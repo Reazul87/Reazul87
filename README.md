@@ -120,7 +120,7 @@
   </tr>
     <tr>
     <td align="center" colspan="2">
-      <h3>ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
+      <h3>ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇꜱ</h3>
       <img
       src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Reazul87&type=languages&theme=dracula&chart=bars"
       width="400""
