@@ -69,27 +69,12 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 ## Socials
 <p align="left">
 <a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/hasanreazul87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
 <a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
+<!-- <a href="https://www.leetcode.com/reazul87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a> -->
 </p>
 
 
-
-
-## 🎯 Current Stats
-
-<br />
-<p align="center">
-<img 
-    width="60%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=thesachindey&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
-    alt="GitHub Streak Stats"
-/>
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Reazul87" alt="GitHub Streak" /></a>
--------------------------------------------
 
 
 
@@ -99,9 +84,9 @@ Thanks for visiting! Feel free to explore my repositories 🚀
   <div style="margin-top: 20px;">
     <h3>📫 Contact:</h3>
     <p>
-      <strong>Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
-      <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer.pdf</a><br>
-      <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app</a>
+      <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br>
+      <!-- <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md. Reazul Hasan_Full Stack Developer.pdf</a><br> -->
+      <!-- <strong>Portfolio</strong>: <a href="https://hasanreazul.vercel.app" target="_blank">hasanreazul87.vercel.app</a> -->
     </p>
   </div>
 </div>
@@ -112,9 +97,6 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/rijwanjannat" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
@@ -134,10 +116,7 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 ![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -146,34 +125,25 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-CC6699?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Package Managers
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![BUN](https://img.shields.io/badge/Bun-CC6699?style=for-the-badge&logo=bun&logoColor=white)
-![PNPM](https://img.shields.io/badge/Pnpm-F7DF1E?style=for-the-badge&logo=pnpm&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### IDE & OS
 
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
