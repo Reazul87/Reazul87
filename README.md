@@ -167,7 +167,7 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&bg_color=00000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reazul87&bg_color=0000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -175,8 +175,7 @@ Thanks for visiting! Feel free to explore my repositories 🚀
 ## 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="[https://github-trophies.vercel.app/?username=md-rijwan-jannat&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" />
-  <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies/>
+  <img src="[https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true](https://github-trophies.vercel.app/?username=Reazul87&theme=darkhub&column=7&no-bg=true%22%20)" alt="GitHub Trophies" />
 </div>
 
 
