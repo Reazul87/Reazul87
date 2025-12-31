@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Reazul Hasan</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">A Passionate Junior Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
   <em>Passionate about building scalable web applications using modern JavaScript technologies. Currently focused on MERN stack (MongoDB, Express.js, React, Node.js) + Next.js. Always learning, building, and solving real-world problems through clean code.</em>
