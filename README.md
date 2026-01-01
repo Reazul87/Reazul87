@@ -1,6 +1,5 @@
 
 <p align="center">
-  <!-- <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="Banner" width="800"/> -->
   <img src="Black Elegant and Modern Startup Pitch Deck Presentation (1).png" alt="Banner" width="800"/>
 </p>
 
@@ -27,16 +26,6 @@
 - 📫 Open to collaboration on web development projects
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<!-- <div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;"> -->
-  <!-- <div style="margin-top: 20px;"> -->
-    <!-- <h3>📫 Contact:</h3> -->
-    <!-- <p> -->
-      <!-- <strong>Email</strong>: <a href="mailto:hasanreazul87@gmail.com">hasanreazul87@gmail.com</a><br> -->
-      <!-- <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md. Reazul Hasan_Full Stack Developer.pdf</a><br> -->
-      <!-- <strong>Portfolio</strong>: <a href="https://hasanreazul.vercel.app" target="_blank">hasanreazul87.vercel.app</a> -->
-    <!-- </p> -->
-  <!-- </div> -->
-<!-- </div> -->
 
 ---
 
@@ -133,11 +122,7 @@
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 ᴛʜᴏᴜɢʜᴛ ᴏꜰ ᴛʜᴇ ᴅᴀʏ 🌟</h2>
-
-
-
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -164,11 +149,10 @@
 
 Thanks for visiting! Feel free to explore my repositories 🚀
 
-<!--Languages and Tools Section-->       
-<h2 align="center">ᴡɪꜱʜ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br/>
+<!--ᴡɪꜱʜ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ Section-->       
+<!-- <h2 align="center">ᴡɪꜱʜ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>  -->
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif"> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif"> -->
+  <!-- <img align="left" alt="GIF description" src="./Skills_Animation_White.gif"> -->
+<!-- </picture> -->
