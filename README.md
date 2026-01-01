@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="Banner" width="800"/> -->
-  <img src="Banner.png" alt="Banner" width="800"/>
+  <img src="Black Elegant and Modern Startup Pitch Deck Presentation (1).png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Reazul Hasan</h1>
