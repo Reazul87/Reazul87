@@ -42,7 +42,7 @@
 
 ### 🌐 Connect With Me:
 
-  <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
+  <a href="https://www.linkedin.com/in/md-reazul-hasan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
@@ -50,10 +50,6 @@
   </a>
   <a href="mailto:hasanreazul87@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-    <a href="https://x.com/hasanreazul87" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
-  </a>
 
 ## 💻 Technologies and Tools
 
